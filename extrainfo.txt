@@ -1,0 +1,7 @@
+all- Products---- https://restapi-production-b94c.up.railway.app/api/products
+
+categories--- https://restapi-production-b94c.up.railway.app/api/categories
+
+feature---  https://restapi-production-b94c.up.railway.app/api/features
+
+review---  https://restapi-production-b94c.up.railway.app/api/reviews
